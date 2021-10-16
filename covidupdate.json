@@ -8,7 +8,7 @@
 "Massage" : "New Update Are Available",
 "Image" : "image.jpg"
 },
-"AppOpen" : "false",
+"AppOpen" : "False",
 "CloseMessage" : "App is closed By Developer",
 "DoseUsage" : {
 "Total" : "92655",
