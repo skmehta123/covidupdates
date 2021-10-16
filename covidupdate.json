@@ -9,6 +9,7 @@
 "Image" : "image.jpg"
 },
 "AppOpen" : "True",
+"CloseMessage" : "App is closed By Developer",
 "DoseUsage" : {
 "Total" : "92655",
 "Today" : "0"
