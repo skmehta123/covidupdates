@@ -1,0 +1,16 @@
+{
+"AppUpdate":
+{
+"package" : "sk.covid.updates",
+"version code" : "10",
+"VersionName" : "1.0"
+"UpdateButtonEnable" : "True",
+"Massage" : "New Update Are Available",
+"Image" : "image.jpg"
+},
+"AppOpen" : "True",
+"DoseUsage" : {
+"Total" : "92655",
+"Today" : "0"
+}
+}
